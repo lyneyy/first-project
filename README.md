@@ -6,7 +6,7 @@
 </p>
 
 ## 🌐 Live Preview
-Visit Website (https://github.com/lyneyy/first-project)/)
+Visit Website (https://github.com/lyneyy/first-project.git)
 
 ## 🖼️ Preview
 <p style="color:#4a7c59;">
