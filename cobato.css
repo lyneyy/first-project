@@ -1,0 +1,59 @@
+.wrap
+{
+	background: white;
+	width: 900px;
+	margin: 10px auto;
+	font-family: "Times New Roman";
+}
+
+.wrap .header
+{
+	padding: 1px 350px;
+	background: rgb(166, 218, 149);
+	height: 70px;
+	background-image: url(https://www.ghibli.jp/gallery/ponyo050.jpg);
+}
+
+.wrap .menu ul{
+	padding: 1px 290px;
+	margin: 0;
+	overflow: hidden;
+	background: rgb(204, 235, 197);
+	background-image: url(https://www.ghibli.jp/gallery/ponyo005.jpg);
+	background-size: 1000px;
+}
+
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 12px;
+}
+
+.clear {
+	clear: both;
+}
+
+.wrap .badan .sidebar {
+	background: rgb(119, 176, 108);
+	float: left;
+	width: 15%;
+	padding: 1px 5px;
+	height: 165px;
+	background-image: url(https://www.ghibli.jp/gallery/marnie009.jpg);
+	background-size: 1000;
+}
+
+.wrap .badan .Content {
+	background: rgb(72, 146, 73);
+	float: left;
+	width: 82.7%;
+	height: 160%;
+	padding: 1px 5px;
+	text-align: justify;
+	background-image: url(https://www.ghibli.jp/gallery/chihiro043.jpg);
+}
+
+.wrap .youtube {
+	padding: 1px 10px;
+	height: 100%;
+}
