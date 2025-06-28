@@ -5,8 +5,12 @@
 </em>
 </p>
 
+<p style="color:#4a7c59;">
+This is a visual preview of the Ghibli-themed website. The design uses calm, nature-inspired colors and elements from Studio Ghibli’s world to create a peaceful browsing experience. Inspired by films like *Totoro* and *Spirited Away*, this project brings warmth and magic into a simple web layout.
+</p>
+
 ## 🌐 Live Preview
- Visit Website](https://lyneyy.github.io/first-project/)
+Visit Website(https://lyneyy.github.io/first-project/)
 
 ## 🖼️ Preview
-[![Website Preview](first-project.png)]
+![Website Preview](first-project.png)
